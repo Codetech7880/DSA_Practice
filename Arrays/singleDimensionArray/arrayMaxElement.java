@@ -40,7 +40,7 @@ public class arrayMaxElement {
 // ======================================================================================
 
 
-// package Arrays.Tasks;
+// package Arrays.singleDimensionArray;
 
 import java.util.Scanner;
 

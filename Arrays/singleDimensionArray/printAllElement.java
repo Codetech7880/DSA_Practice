@@ -1,4 +1,4 @@
-// package Arrays.Tasks;
+// package Arrays.singleDimensionArray;
 
 public class printAllElement {
     public static void main(String[] args) {
