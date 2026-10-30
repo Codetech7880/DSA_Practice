@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class findTotalConstructor {
+public class findTotalConsonant {
     public static void main(String[] args) {
         
         // Scanner helps us to take input from the user.
